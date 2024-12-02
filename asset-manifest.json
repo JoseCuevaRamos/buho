@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.893ca185.css",
+    "main.js": "/static/js/main.8a93a05c.js",
+    "static/js/453.6c5f7ba9.chunk.js": "/static/js/453.6c5f7ba9.chunk.js",
+    "static/media/cerrito.png": "/static/media/cerrito.df331cf62c8a0bd1de70.png",
+    "static/media/logo.png": "/static/media/logo.34e68cdbe507bd1eb533.png",
+    "static/media/Rectangle 2.png": "/static/media/Rectangle 2.ccfc8523ab92e74334a2.png",
+    "index.html": "/index.html",
+    "main.893ca185.css.map": "/static/css/main.893ca185.css.map",
+    "main.8a93a05c.js.map": "/static/js/main.8a93a05c.js.map",
+    "453.6c5f7ba9.chunk.js.map": "/static/js/453.6c5f7ba9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.893ca185.css",
+    "static/js/main.8a93a05c.js"
+  ]
+}
